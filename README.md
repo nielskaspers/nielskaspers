@@ -1,62 +1,69 @@
-# Niels here 👋
+## Hey, I'm Niels 👋
 
-I turn **AI** into **usable design tools** — the kind you can clone today and ship this week.
+  **Principal PM, Growth at Picsart** — I build AI-powered systems that help products grow to millions of users.
 
-I care about two things:
-1) making **creative workflows** faster without losing taste, and  
-2) giving developers **clear, working patterns** (not vibes).
+  ### What I Do
 
----
+  I've scaled products to 10M+ users twice — not by growing teams, but by building smart systems. Currently at Picsart (150M+ users), where I've 3X'd web traffic to 20M MAU while freeing up time for the work that actually matters.
 
-## The 30-second version
+  **My approach**: Build systems that let small teams punch way above their weight.
 
-- **I build** layout-aware AI agents and visual workflows (canvas helpers, style guidance, asset-aware edits).
-- **I share** ready-to-run examples so teams can skip boilerplate and get straight to building.
-- **I avoid** generic “AI image generator” rabbit holes and focus on **design features** that land in real products.
+  ### AI-Powered Growth in Practice
 
----
+  - **50+ tools shipped in 1 year** with just 2 engineers — built a framework that let us ship 2 complete flows/week
+  - **Page creation: 2 hours → 5 minutes** — N8N + LLMs handle the repetitive stuff so we can focus on strategy
+  - **40+ languages, 2,000+ pages** — built a localization system that scales with us as we grow
+  - **LP conversion: 5% → 65%** — AI-assisted optimization and rapid experimentation
 
-## What I ship
+  ### What I Build With
 
-- 🧠 **AI Design Agents**  
-  Single + multi-agent setups, canvas/browser agents, style-guided flows, local & cloud runners.
+  Automation    → N8N, Zapier, Claude Code, custom scripts
+  
+  AI/LLMs       → Claude, GPT-4, custom prompts for content generation
+  
+  Analytics     → Looker, GA4, Amplitude
+  
+  SEO/AEO       → Ahrefs API, GSC, Semrush, Profound
+  
+  Product       → Figma, Strapi CMS, JIRA
 
-- 📦 **Starters you can run**  
-  `git clone` → `install` → `run`. Clean repos with env templates, scripts, and examples.
+  ### Recent Projects
 
-- 🔧 **Developer/workflow patterns**  
-  Tool calling, logging & eval, planning, prompt+style ops, guardrails, brand-safe constraints.
+  | Project | What It Is | Impact |
+  |---------|-----------|--------|
+  | **GTM Orchestrator** | AI content generation pipeline for launches | Full content kit (blog, social, ads) in minutes |
+  | **Vibe Design** | Programmatic AI design pages | 2,000+ pages, 60K monthly traffic |
+  | **Gen.ai** | AI-generated content hub | 10,000+ pages, 100K monthly traffic |
+  | **AI Writer** | 60 AI writing tools | 400K MAU, 1.6M generations/month |
+  | **Quicktools** | Utility tools for web | 10M MAU, 1M ARR in 18 months |
 
-- 🗂️ **Visual retrieval (RAG-for-assets)**  
-  Hybrid search across images/vectors/metadata, brand kits, style tokens, boards & libraries.
+  ### The Numbers
 
-- 🎨 **Design features**  
-  Generative fill/expand, object/background edits, smart resize/variants, prompt-to-layout.
+  - 20M     monthly users on Picsart.com (3X growth)
+  - 50K+    live pages under management
+  - 100K+   templates in the library
+  - 10M     users reached with Quicktools
+  - 1.6M    AI generations per month
 
-- 💬 **Chat-with-your-assets**  
-  Talk to brand libraries, docs, and media; generate on-brand visuals and content.
+  ### Background
 
-- 🧩 **Code-first examples**  
-  Minimal templates for modern SDKs/APIs; no framework lock-in, no mystery glue.
+  Started in marketing (festivals, e-commerce, NGOs) → Product at NU.nl (Netherlands' #1 news app, 8M users) → Enterprise SaaS at Whisbi (Fortune 500 clients) → Growth at Picsart.
 
----
+  Been excited about AI since 2018 when we shipped AI-generated audio news at NU.nl — super fun to see it is now the default for everything we do. 
 
-## How I work (principles)
+  ### Currently Exploring
 
-- **Show, don’t tell.** Every pattern comes with a runnable example.  
-- **Small to real.** Start from a minimal path; graduate to production-minded structure.  
-- **Taste > noise.** Guardrails and style systems matter as much as model choice.  
-- **Own your stack.** Local where it helps, cloud where it counts.
+  - AEO (Answer Engine Optimization) — getting cited by AI search
+  - Agentic workflows for product teams
+  - Programmatic content at scale
+  - AI-assisted experimentation
 
----
+  ### Connect
 
-## Now / Open to
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nielskaspers)
+  [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/nielskaspers)
+  [![Website](https://img.shields.io/badge/Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://nielskaspers.com)
 
-- Collaborating on **agentic design tooling**, **asset retrieval**, **brand-safe generation**
-- Pairing on developer experience for **AI-powered creative features**
-- Speaking/writing about practical patterns for **AI in visual design**
+  ---
 
----
-
-## Say hi
-💬 Open to DMs for collabs, reviews, or quick feedback on an idea.
+  *Building from Tallinn, Estonia. Previously Amsterdam, Madrid, Barcelona.*
