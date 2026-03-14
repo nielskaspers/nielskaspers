@@ -1,69 +1,52 @@
 ## Hey, I'm Niels 👋
 
-  **Principal PM, Growth at Picsart** — I build AI-powered systems that help products grow to millions of users.
+**Full-stack builder. Principal PM, Growth at Picsart.**
 
-  ### What I Do
+I build products end-to-end — from strategy to code to scale. Currently growing Picsart's web platform (150M+ users), previously scaled products to 10M+ users twice. Not by growing teams, but by building systems.
 
-  I've scaled products to 10M+ users twice — not by growing teams, but by building smart systems. Currently at Picsart (150M+ users), where I've 3X'd web traffic to 20M MAU while freeing up time for the work that actually matters.
+### What I Build
 
-  **My approach**: Build systems that let small teams punch way above their weight.
+At Picsart, I've 3X'd web traffic to 20M MAU while shipping AI-powered automation that lets a small team manage 50,000+ pages across 40+ languages. But the work I'm most excited about is building things myself.
 
-  ### AI-Powered Growth in Practice
+**At work**: AI growth systems, landing page pipelines, localization engines, SEO/AEO infrastructure
+**Side projects**: iOS apps (SwiftUI), web apps (Next.js), community platforms, automation tools
+**With AI**: Claude Code is my daily co-pilot — I build with it, not just use it
 
-  - **50+ tools shipped in 1 year** with just 2 engineers — built a framework that let us ship 2 complete flows/week
-  - **Page creation: 2 hours → 5 minutes** — N8N + LLMs handle the repetitive stuff so we can focus on strategy
-  - **40+ languages, 2,000+ pages** — built a localization system that scales with us as we grow
-  - **LP conversion: 5% → 65%** — AI-assisted optimization and rapid experimentation
+### Recent Projects
 
-  ### What I Build With
+| Project | What It Is | Stack |
+|---------|-----------|-------|
+| **PeerWealthy** | Personal finance app for shared households | SwiftUI + TCA (iOS), Next.js (Web), Supabase |
+| **PMtivity** | Community for AI-productive PMs | Next.js, Framer |
+| **ScreenshotEdits** | Screenshot annotation tool | Swift, Next.js |
+| **aitreening.ee** | AI training platform for Estonian market | Next.js |
 
-  Automation    → N8N, Zapier, Claude Code, custom scripts
-  
-  AI/LLMs       → Claude, GPT-4, custom prompts for content generation
-  
-  Analytics     → Looker, GA4, Amplitude
-  
-  SEO/AEO       → Ahrefs API, GSC, Semrush, Profound
-  
-  Product       → Figma, Strapi CMS, JIRA
+### What I Build With
 
-  ### Recent Projects
+Code → Next.js, TypeScript, SwiftUI, TCA, React, Tailwind
+AI → Claude Code, Claude API, N8N, custom LLM workflows
+Data → Looker, GA4, Ahrefs API, GSC
+Product → Figma, Strapi CMS, JIRA, Supabase
 
-  | Project | What It Is | Impact |
-  |---------|-----------|--------|
-  | **GTM Orchestrator** | AI content generation pipeline for launches | Full content kit (blog, social, ads) in minutes |
-  | **Vibe Design** | Programmatic AI design pages | 2,000+ pages, 60K monthly traffic |
-  | **Gen.ai** | AI-generated content hub | 10,000+ pages, 100K monthly traffic |
-  | **AI Writer** | 60 AI writing tools | 400K MAU, 1.6M generations/month |
-  | **Quicktools** | Utility tools for web | 10M MAU, 1M ARR in 18 months |
+### Background
 
-  ### The Numbers
+Marketing (festivals, e-commerce, NGOs) → Product at NU.nl (Netherlands' #1 news app, 8M users) → Enterprise SaaS at Whisbi (Fortune 500 clients) → Growth at Picsart. Shipped AI-generated audio news in 2018 — been building with AI ever since.
 
-  - 20M     monthly users on Picsart.com (3X growth)
-  - 50K+    live pages under management
-  - 100K+   templates in the library
-  - 10M     users reached with Quicktools
-  - 1.6M    AI generations per month
+### Currently Building
 
-  ### Background
+- **PeerWealthy** — shipping v1 of the iOS app
+- **Open source** — contributing to Claude Code/MCP ecosystem
+- **AEO** — making products discoverable by AI search engines
+- **PMtivity** — helping PMs become 10x more productive with AI
 
-  Started in marketing (festivals, e-commerce, NGOs) → Product at NU.nl (Netherlands' #1 news app, 8M users) → Enterprise SaaS at Whisbi (Fortune 500 clients) → Growth at Picsart.
+### Connect
 
-  Been excited about AI since 2018 when we shipped AI-generated audio news at NU.nl — super fun to see it is now the default for everything we do. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nielskaspers)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/nielskaspers)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white)](https://threads.com/@nielskaspers)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://nielskaspers.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@nielskaspers)
 
-  ### Currently Exploring
+---
 
-  - AEO (Answer Engine Optimization) — getting cited by AI search
-  - Agentic workflows for product teams
-  - Programmatic content at scale
-  - AI-assisted experimentation
-
-  ### Connect
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nielskaspers)
-  [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/nielskaspers)
-  [![Website](https://img.shields.io/badge/Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://nielskaspers.com)
-
-  ---
-
-  *Building from Tallinn, Estonia. Previously Amsterdam, Madrid, Barcelona.*
+*Building from Tallinn, Estonia. Born and raised in Amsterdam. Dad, CrossFitter, and occasional marathon runner.*
